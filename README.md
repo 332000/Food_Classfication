@@ -1,2 +1,2 @@
-# Food_Classfication
-This project uses the python programming language and is executed using notebook jupyter tools.
+# Decison-Tree-Food-Classfication
+Food classification for diet using Decision Tree Algorithm
